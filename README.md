@@ -131,6 +131,12 @@ source="Apache.log" sourcetype="DMMOP"
 This repository includes:
 
 - **README.md** – Comprehensive project documentation (this file)
+- 
+- **Screenshots/** – Evidence of log analysis and detection:
+  - Log ingestion process and configuration
+  - Splunk search queries and results
+  - Detected security events and alerts dashboard snapshots
+  - See [Screenshots/SPLUNK_EVIDENCE.md](Screenshots/SPLUNK_EVIDENCE.md) for detailed documentation
 - **Screenshots/** – Evidence of log analysis and detection:
   - Log ingestion process
   - Splunk search queries and results
