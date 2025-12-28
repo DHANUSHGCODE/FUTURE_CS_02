@@ -137,6 +137,13 @@ This repository includes:
   - Splunk search queries and results
   - Detected security events and alerts dashboard snapshots
   - See [Screenshots/SPLUNK_EVIDENCE.md](Screenshots/SPLUNK_EVIDENCE.md) for detailed documentation
+  - 
+  - **INCIDENT_RESPONSE_REPORT.md** – Comprehensive incident response documentation:
+  - Executive summary of findings
+  - Detailed threat analysis and classification
+  - Incident response procedures and recommendations
+  - Log examples and evidence documentation
+  - See [INCIDENT_RESPONSE_REPORT.md](INCIDENT_RESPONSE_REPORT.md) for full report
 - **Screenshots/** – Evidence of log analysis and detection:
   - Log ingestion process
   - Splunk search queries and results
